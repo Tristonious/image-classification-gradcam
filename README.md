@@ -75,6 +75,10 @@ Requires `cat.jpg` in the repo root. Saves output figures to `figures/` and prin
 
 This project was completed as coursework for CSCI 8110. The VGG16 classification pipeline, Grad-CAM implementation, and heatmap metric design are my own work. GitHub Copilot assisted with image annotation formatting (Section 5). ChatGPT was used for help with metric interpretation and writing clarity. The code in this repository has been refactored with the assistance of Claude (Anthropic) for structure and readability.
 
+## Paper
+Full write-up including model setup, Grad-CAM methodology, and heatmap metric analysis:
+[`docs/project2_report.pdf`](docs/project2_report.pdf)
+
 ## References
 
 1. CSCI 8110 Lecture Notes, Image Classification and Explainable AI, Fall 2025.
