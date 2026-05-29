@@ -77,7 +77,7 @@ This project was completed as coursework for CSCI 8110. The VGG16 classification
 
 ## Paper
 Full write-up including model setup, Grad-CAM methodology, and heatmap metric analysis:
-[`docs/project2_report.pdf`](docs/project2_report.pdf)
+[`docs/project2_report.pdf`](docs/Project2_CSCI8110_Image_Classification)
 
 ## References
 
